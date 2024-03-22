@@ -10,3 +10,4 @@ Contains :
 
 - Research Proposal
 - Five Minute Presentation Slides
+- Expectation Maximization Algorithm for Markov Observation Model Proof
